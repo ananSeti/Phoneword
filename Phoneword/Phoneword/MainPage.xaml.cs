@@ -7,7 +7,8 @@ using Xamarin.Forms;
 
 namespace Phoneword
 {
-	public partial class MainPage : ContentPage
+    
+    public partial class MainPage : ContentPage
 	{
         Entry phoneNumberText;
         Button translateButton;
