@@ -13,8 +13,9 @@ namespace Phoneword
 		{
 			InitializeComponent();
 
-			MainPage = new Phoneword.MainPage();
-		}
+            //MainPage = new Phoneword.MainPage();
+            MainPage= new Phoneword.MainPage1();
+        }
 
 		protected override void OnStart ()
 		{
